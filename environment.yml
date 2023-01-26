@@ -1,0 +1,9 @@
+name: SoftwareEngineering
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - jupyterlab
+  - numpy
+prefix: C:\Users\nicho\anaconda3\envs\SoftwareEngineering
